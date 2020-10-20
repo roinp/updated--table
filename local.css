@@ -1,0 +1,57 @@
+body {
+    width: 800px;
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+.time-div {
+    margin-left: 180px;
+    width: 800px;
+    justify-content: flex-end;
+}
+
+.time-div p {
+    width: 450px;
+    padding: 20px;
+    text-align: center;
+    background-color:tomato;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: relative;
+    left: 15px;
+}
+
+.list-div {
+    margin-right: 50px;
+    
+    
+}
+
+.textarea-place {
+    height: 500px;
+     
+    
+    
+     
+}
+
+.textarea-place textarea {
+   
+    width: 525px;
+    height: 400px;
+    
+    background-color: chartreuse;
+    margin-left: 100px ;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+}
+button {
+background-color: gold;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+padding: 10px;  
+text-align: center;
+
+}
